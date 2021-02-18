@@ -11,11 +11,7 @@ Initial Security()
 }
 feature2
 {
-
-	//feature2 is added
-
-
+ //feature2 is added
 }
-
 
 }
